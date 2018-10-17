@@ -1,9 +1,15 @@
-# trabalho-node
+# Trabalho de node js
 
-# iniciar projeto
-- npm install
-- npm start
+## Installation
 
+Install/update packages
+```sh
+$ npm install
+$ npm start
+```
+
+|Método|URL|Descrição|
+|-|-|-|
 POST|http://localhost:3001/api/usuarios|Cadastro de usuários|
 POST|http://localhost:3001/api/usuarios/login|Login de usuários|
 GET|http://localhost:3001/api/usuarios/1|Consulta de usuário por ID|
